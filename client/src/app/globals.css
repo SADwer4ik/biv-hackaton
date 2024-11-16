@@ -113,9 +113,6 @@ a {
     color: var(--black);
 }
 
-.input-and-btn form {
-    width: 90%;
-}
 .input-and-btn input {
     width: 100%;
     height: 3em;
